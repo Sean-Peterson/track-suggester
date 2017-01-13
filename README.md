@@ -1,19 +1,19 @@
-# _MadLib_
+# _Track Suggester_
 
-#### _It's just like the MadLibs you grew up with, 01.11.17_
+#### _Track Suggester is a tool to help with decision making, 01.11.17_
 
 #### By _**Sean Peterson**_
 https://github.com/Sean-Peterson
 
 ## Description
 
-_This is a single MadLib page. The page prompts the user to input terms and then populates a story based on pre-set input and user input._
+_This is a survey that asks questions and determines which languages you are best suited to learn._
 
 ## Setup/Installation Requirements
 
 * _clone this repository_
-* _Open a simple HTTP server in the top level of the cloned directory. For mac run the following command in your terminal:_
-* _open index.html_
+* _Open a simple HTTP server in the top level of the cloned directory._
+* _For mac run the following command in your terminal: open index.html_
 * _Command for PC:_
 * _start index.html_
 
