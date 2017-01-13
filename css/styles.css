@@ -18,6 +18,10 @@ img#bg {
   background: transparent;
 }
 
+input#uname {
+  width: auto;
+}
+
 .well {
   background: transparent;
   border: none;

@@ -3,7 +3,8 @@ var add = (function(a1, a2, a3, a4, a5) {
 });
 
 $(document).ready(function() {
-  $("form").submit(function(event) {
+
+  $("form#f2").submit(function(event) {
     event.preventDefault();
     var a1 = parseInt($("#a1").val());
     var a2 = parseInt($("#a2").val());
