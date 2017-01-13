@@ -20,6 +20,7 @@ img#bg {
 
 input#uname {
   width: auto;
+  border: solid 3px red;
 }
 
 .well {
