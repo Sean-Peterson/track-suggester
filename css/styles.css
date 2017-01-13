@@ -67,19 +67,7 @@ form img {
   color: white;
 }
 
- #r1 {
-   display: none;
- }
-
- #r2 {
-   display: none;
- }
-
- #r3 {
-   display: none;
- }
-
- #r4 {
+ #r1, #r2, #r3, #r4 {
    display: none;
  }
 
@@ -98,8 +86,4 @@ ol {
 li {
   margin-right: 0px;
   padding: 0px;
-}
-
-#reset {
-  display: none;
 }

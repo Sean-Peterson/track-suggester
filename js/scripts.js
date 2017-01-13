@@ -3,6 +3,7 @@ var add = (function(a1, a2, a3, a4, a5) {
 });
 
 $(document).ready(function() {
+  $(".container").hide(0).delay(500).fadeIn(3500);
   $("form").submit(function(event) {
     event.preventDefault();
     var a1 = parseInt($("#a1").val());
@@ -25,7 +26,8 @@ $(document).ready(function() {
       $("#r4").show();
     }
 
-    $("#reset").show();
+    var unr = $("#uname").val();
+    $(".unr").text(unr);
   });
 
 });
