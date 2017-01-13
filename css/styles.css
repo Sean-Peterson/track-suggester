@@ -16,3 +16,34 @@ img {
   height: 100px;
   width: 150px;
 }
+ #r1 {
+   display: none;
+ }
+
+ #r2 {
+   display: none;
+ }
+
+ #r3 {
+   display: none;
+ }
+
+ #r4 {
+   display: none;
+ }
+
+.results{
+  text-align: center;
+}
+
+ol {
+  list-style-type: none;
+  text-align: center;
+  margin-right: 0px;
+  padding: 0px;
+}
+
+li {
+  margin-right: 0px;
+  padding: 0px;
+}
