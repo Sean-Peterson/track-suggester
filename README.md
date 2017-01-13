@@ -35,4 +35,4 @@ _jQuery_
 
 ### License
 
-Copyright (c) 2016 **_Sean Peterson_**
+Copyright (c) 2017 **_Sean Peterson_**
