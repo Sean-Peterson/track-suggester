@@ -11,7 +11,7 @@ $(document).ready(function() {
     var a4 = parseInt($("#a4").val());
     var a5 = parseInt($("#a5").val());
     var result = add(a1, a2, a3, a4, a5);
-    
+
     if (result <= 5) {
       $("#r1").show();
     }
@@ -24,7 +24,8 @@ $(document).ready(function() {
     else if (result >= 16){
       $("#r4").show();
     }
-  });
 
+    $("#reset").show();
+  });
 
 });

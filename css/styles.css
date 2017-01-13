@@ -2,6 +2,13 @@ body {
   text-align: center;
 }
 
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 90vw;
+  height: 90vh;
+}
+
 input {
   width: 10px;
   border: none;
@@ -12,10 +19,31 @@ input.a {
   text-align: center;
 }
 
-img {
-  height: 100px;
-  width: 150px;
+#values {
+  display: inline-block;
+  width: 20%;
 }
+
+img {
+  display: inline-block;
+  height: 200px;
+  width: 250px;
+  padding: 15px;
+}
+
+.a {
+  border: solid 3px red;
+}
+
+.btn {
+  margin-bottom: 80px;
+  height: 90px;
+  background-color: red;
+  font-weight: bold;
+  font-size: 25px;
+  color: white;
+}
+
  #r1 {
    display: none;
  }
@@ -46,4 +74,8 @@ ol {
 li {
   margin-right: 0px;
   padding: 0px;
+}
+
+#reset {
+  display: none;
 }
